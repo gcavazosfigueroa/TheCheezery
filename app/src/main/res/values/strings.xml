@@ -16,10 +16,11 @@
     <string name="last_name">Last Name</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
-    <string name="conditions">I have read and accept termns and conditions of the Cheezery</string>
+    <string name="conditions">I have read and accept terms and conditions of the Cheezery</string>
     <string name="sign_in">Sign in</string>
 
-    <!-- end fields -->
+    <!-- end of fields -->
+
 
     <!-- menu -->
     <string name="our_menu">Our Menu</string>
